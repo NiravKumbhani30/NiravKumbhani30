@@ -1,4 +1,4 @@
-### Hi there 👋,I am Nirav Kumbhani.
+### Hi there 👋 I am Nirav Kumbhani.
 
 - Iam NodeJs/NextJs Developer
 
