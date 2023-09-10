@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">My name is nirav and I am a web developer with a passion for creating beautiful and user-friendly websites. I have over an year of experience in the industry, and I am proficient in a variety of technologies, including HTML/CSS, JavaScript, Nodejs, Reactjs and Nextjs.<br><br><br>- 🔭 I’m working as web developer 🧑‍💻<br>- 📚 I'm currently learning python 🐍<br>- ⚡ In my free time i play games 🎮</p>
+<p align="left">My name is nirav and I am a web developer with a passion for creating beautiful and user-friendly websites and web applications. I have an year of experience in the industry, and I am proficient in a variety of technologies, including HTML/CSS, JavaScript, Nodejs, Reactjs and Nextjs.<br><br><br>- 🔭 I’m working as web developer 🧑‍💻<br>- 📚 I'm currently learning python 🐍<br>- ⚡ In my free time i play games 🎮</p>
 
 ###
 
