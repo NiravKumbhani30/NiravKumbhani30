@@ -1,10 +1,66 @@
-### Hi there 👋 I am Nirav Kumbhani.
+<div align="center">
+  <img height="130" src="./dev-gif.gif"  />
+</div>
 
-- Iam NodeJs/NextJs Developer
+###
 
+<div align="center">
+  <a href="https://in.linkedin.com/in/nirav-kumbhani-6088a5227" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="linkedin logo"  />
+  </a>
+  <a href="https://discordapp.com/users/769068606016585738" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="discord logo"  />
+  </a>
+  <a href="mailto:niravkumbhani007@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/nirav_kumbhani_3093/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="instagram logo"  />
+  </a>
+</div>
 
-![Javascript](https://camo.githubusercontent.com/aeddc848275a1ffce386dc81c04541654ca07b2c43bbb8ad251085c962672aea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145) 
-![NodejS](https://camo.githubusercontent.com/7d7b100e379663ee40a20989e6c61737e6396c1dafc3a7c6d2ada8d4447eb0e4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652e6a732d3644413535463f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465) 
-![BunJs](https://camo.githubusercontent.com/5103f4cc1506ce6dbfdb9af3266a7acf9432a10f4360911c0ebe406a462054ae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f42756e2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d62756e266c6f676f436f6c6f723d7768697465)
-![ReactJS](https://camo.githubusercontent.com/ab4c3c731a174a63df861f7b118d6c8a6c52040a021a552628db877bd518fe84/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742d2532333230323332612e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642)
-![MongoDb](https://camo.githubusercontent.com/c839570bc71901106b11b8411d9277a6a8356a9431e4a16d6c26db82caab7d62/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d2532333465613934622e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465)
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=niravkumbhani30.niravkumbhani30&"  />
+</div>
+
+###
+
+<h1 align="center">Hey 👋 What's up?</h1>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">My name is nirav and I am a web developer with a passion for creating beautiful and user-friendly websites. I have over an year of experience in the industry, and I am proficient in a variety of technologies, including HTML/CSS, JavaScript, Nodejs, Reactjs and Nextjs.<br><br><br>- 🔭 I’m working as web developer 🧑‍💻<br>- 📚 I'm currently learning python 🐍<br>- ⚡ In my free time i play games 🎮</p>
+
+###
+
+<h2 align="left">🛠 Language and tools</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/couchdb/couchdb-original.svg" height="40" alt="couchdb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+</div>
+
+###
