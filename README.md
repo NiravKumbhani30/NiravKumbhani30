@@ -50,6 +50,8 @@
   <img width="5" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="25" alt="nodejs logo"  />
   <img width="5" />
+  <img src="https://camo.githubusercontent.com/5103f4cc1506ce6dbfdb9af3266a7acf9432a10f4360911c0ebe406a462054ae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f42756e2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d62756e266c6f676f436f6c6f723d7768697465" height="25" alt="BunJs logo"  />
+  <img width="5" />
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="25" alt="express logo"  />
   <img width="5" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="25" alt="react logo"  />
